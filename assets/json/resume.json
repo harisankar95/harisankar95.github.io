@@ -42,6 +42,20 @@
         "Deep Learning",
         "High Performance Computing and Parallel Programming"
       ]
+    },
+    {
+      "institution": "University of Kerala",
+      "location": "Thiruvananthapuram, India",
+      "url": "https://www.keralauniversity.ac.in/",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "Aug '13",
+      "endDate": "Apr '17",
+      "score": "1.8",
+      "courses": [
+        "Automotive Engineering",
+        "Mechatronics"
+      ]
     }
   ],
   "languages": [
