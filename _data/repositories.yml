@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - harisankar95
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - harisankar95/voxelgym2D
+  - harisankar95/pathfinding3D
+  - harisankar95/AdvStyle
