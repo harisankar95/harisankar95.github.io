@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Hari
+first_name: Harisankar
 middle_name:
 last_name:
 email: harisankar995@gmail.com
@@ -212,6 +212,7 @@ exclude:
   - Gemfile.lock
   - INSTALL.md
   - LICENSE
+  - lighthouse_results
   - package.json
   - package-lock.json
   - purgecss.config.js
@@ -272,7 +273,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
+display_tags: ["pytorch", "python", "code"] # these tags will be displayed on the front page of your blog
 display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
