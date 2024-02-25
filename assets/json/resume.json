@@ -14,18 +14,14 @@
       "position": "Research Associate",
       "startDate": "Mar '23",
       "endDate": "Apr '24",
-      "highlights": [
-        "Highly Automated Flying"
-      ]
+      "highlights": ["Highly Automated Flying"]
     },
     {
       "name": "Mahindra & Mahindra Ltd.",
       "position": "Development Engineer",
       "startDate": "Aug '17",
       "endDate": "Aug '19",
-      "highlights": [
-        "Powertrain Division"
-      ]
+      "highlights": ["Powertrain Division"]
     }
   ],
   "education": [
@@ -38,10 +34,7 @@
       "startDate": "Oct '19",
       "endDate": "Jan '23",
       "score": "1.3",
-      "courses": [
-        "Deep Learning",
-        "High Performance Computing and Parallel Programming"
-      ]
+      "courses": ["Deep Learning", "High Performance Computing and Parallel Programming"]
     },
     {
       "institution": "University of Kerala",
@@ -52,10 +45,7 @@
       "startDate": "Aug '13",
       "endDate": "Apr '17",
       "score": "1.8",
-      "courses": [
-        "Automotive Engineering",
-        "Mechatronics"
-      ]
+      "courses": ["Automotive Engineering", "Mechatronics"]
     }
   ],
   "languages": [
@@ -69,11 +59,7 @@
     {
       "name": "Deep Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Autonomous Systems",
-        "Computer Vision",
-        "Reinforcement Learning"
-      ]
+      "keywords": ["Autonomous Systems", "Computer Vision", "Reinforcement Learning"]
     }
   ]
 }
