@@ -3,7 +3,8 @@ layout: default
 ---
 {% unless site.data.resume %}
   <div class="post">
-    <header class="post-header">
+    <header class="post-header" style="--stagger: {{ animation_count }};" data-animate>
+      {% assign animation_count = animation_count | plus: 1 %}
       <h1 class="post-title">
         {{ page.title }}
         {% if page.cv_pdf %}
@@ -24,8 +25,10 @@ layout: default
     <article>
       <div class="cv">
         {% for entry in site.data.cv %}
-          <a class="anchor" id="{{ entry.title }}"></a>
-          <div class="card mt-3 p-3">
+          <a class="anchor" style="--stagger: {{ animation_count }};" data-animate id="{{ entry.title }}"></a>
+          {% assign animation_count = animation_count | plus: 1 %}
+          <div class="card mt-3 p-3" style="--stagger: {{ animation_count }};" data-animate>
+            {% assign animation_count = animation_count | plus: 1 %}
             <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
             <div>
               {% if entry.type == 'list' %}
@@ -49,7 +52,8 @@ layout: default
   </div>
 {% else %}
   <div class="post">
-    <header class="post-header">
+    <header class="post-header" style="--stagger: {{ animation_count }};" data-animate>
+      {% assign animation_count = animation_count | plus: 1 %}
       <h1 class="post-title">
         {{ page.title }}
         {% if page.cv_pdf %}
@@ -76,8 +80,10 @@ layout: default
             {% endunless %}
           {% endif %}
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
-          <a class="anchor" id="{{ data[0] }}"></a>
-          <div class="card mt-3 p-3">
+          <a class="anchor" style="--stagger: {{ animation_count }};" data-animate id="{{ data[0] }}"></a>
+          {% assign animation_count = animation_count | plus: 1 %}
+          <div class="card mt-3 p-3" style="--stagger: {{ animation_count }};" data-animate>
+            {% assign animation_count = animation_count | plus: 1 %}
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             <div>
               {% case data[0] %}
