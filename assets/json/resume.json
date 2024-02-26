@@ -52,7 +52,12 @@
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-language"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner",
+      "icon": "fa-solid fa-language"
     }
   ],
   "interests": [
