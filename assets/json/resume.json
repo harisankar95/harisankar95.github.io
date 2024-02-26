@@ -63,7 +63,7 @@
   "interests": [
     {
       "name": "Deep Learning",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-atom",
       "keywords": ["Autonomous Systems", "Computer Vision", "Reinforcement Learning"]
     }
   ]
