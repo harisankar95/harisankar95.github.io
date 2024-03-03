@@ -5,7 +5,7 @@
     "image": "",
     "email": "harisankar995@gmail.com",
     "url": "https://harisankar95.github.io/",
-    "summary": "I like to work with deep neural networks and autonomous systems.",
+    "summary": "I'm into deep thoughts... and by that, I mean neural networks. Autonomous systems? They drive me crazy!",
     "location": "Germany"
   },
   "work": [
@@ -13,9 +13,17 @@
       "name": "Fraunhofer-Institut für Verkehrs und Infrastruktursysteme IVI",
       "url": "https://www.ivi.fraunhofer.de/en.html",
       "position": "Research Associate",
-      "startDate": "Mar '23",
+      "startDate": "Jan '22",
       "endDate": "Apr '24",
       "highlights": ["Highly Automated Flying"]
+    },
+    {
+      "name": "GlobalFoundries",
+      "url": "https://gf.com/",
+      "position": "Working Student",
+      "startDate": "Nov '19",
+      "endDate": "Dec '21",
+      "highlights": ["Technology CAD"]
     },
     {
       "name": "Mahindra & Mahindra Ltd.",
