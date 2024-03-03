@@ -13,24 +13,23 @@
       "name": "Fraunhofer-Institut für Verkehrs und Infrastruktursysteme IVI",
       "url": "https://www.ivi.fraunhofer.de/en.html",
       "position": "Research Associate",
-      "startDate": "Jan '22",
-      "endDate": "Apr '24",
+      "startDate": "2022-01-01",
       "highlights": ["Highly Automated Flying"]
     },
     {
       "name": "GlobalFoundries",
       "url": "https://gf.com/",
       "position": "Working Student",
-      "startDate": "Nov '19",
-      "endDate": "Dec '21",
+      "startDate": "2019-11-01",
+      "endDate": "2021-12-31",
       "highlights": ["Technology CAD"]
     },
     {
       "name": "Mahindra & Mahindra Ltd.",
       "url": "https://www.mahindra.com/our-business/automotive",
       "position": "Development Engineer",
-      "startDate": "Aug '17",
-      "endDate": "Aug '19",
+      "startDate": "2017-08-01",
+      "endDate": "2019-08-31",
       "highlights": ["Powertrain Division"]
     }
   ],
@@ -40,8 +39,8 @@
       "url": "https://tu-dresden.de/",
       "area": "Computational Engineering",
       "studyType": "Master of Science",
-      "startDate": "Oct '19",
-      "endDate": "Jan '23",
+      "startDate": "2019-10-01",
+      "endDate": "2023-01-31",
       "score": "1.3",
       "courses": ["Deep Learning", "High Performance Computing and Parallel Programming"]
     },
@@ -50,8 +49,8 @@
       "url": "https://www.keralauniversity.ac.in/",
       "area": "Mechanical Engineering",
       "studyType": "Bachelor of Technology",
-      "startDate": "Aug '13",
-      "endDate": "Apr '17",
+      "startDate": "2013-08-01",
+      "endDate": "2017-04-30",
       "score": "1.8",
       "courses": ["Automotive Engineering", "Mechatronics"]
     }
